@@ -1,5 +1,4 @@
 # Lenora Welborne
-# CIS261
 # IterationAndRecursion
 def factorial_iterative_while(n):
     if n == 0:
